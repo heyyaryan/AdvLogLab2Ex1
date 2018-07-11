@@ -1,0 +1,55 @@
+Quartus II 32-bit
+Version 11.1 Build 216 11/23/2011 Service Pack 1 SJ Web Edition
+13
+1105
+OFF
+OFF
+OFF
+ON
+ON
+ON
+FV_OFF
+Level2
+0
+0
+0
+0
+VRSM_ON
+VHSM_ON
+0
+-- Start Library Paths --
+-- End Library Paths --
+-- Start VHDL Libraries --
+-- End VHDL Libraries --
+# entity
+mealy4s
+# storage
+db|mealy4s.(0).cnf
+db|mealy4s.(0).cnf
+# logic_option {
+AUTO_RAM_RECOGNITION
+ON
+}
+# case_insensitive
+# source_file
+||coe|students|150026319|my documents|cpe407|mealy|mealy4s.vhd
+ef60962c2308216c18167b7f368e6ef
+5
+# internal_option {
+HDL_INITIAL_FANOUT_LIMIT
+OFF
+AUTO_RESOURCE_SHARING
+OFF
+AUTO_RAM_RECOGNITION
+ON
+AUTO_ROM_RECOGNITION
+ON
+}
+# hierarchies {
+|
+}
+# macro_sequence
+
+# end
+# complete
+
